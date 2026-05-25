@@ -6,3 +6,8 @@ The tumor microenvironment emerges from dynamic crosstalk among vasculature, imm
 
 
 # Analysis scripts in this repo:
+Figure 1
+- Fig1_VIO.ipynb
+
+Figure 3:
+- Fig3_CIVA.ipynb
