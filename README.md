@@ -5,9 +5,9 @@ The tumor microenvironment emerges from dynamic crosstalk among vasculature, imm
 # The download links of processed files
 - [VIO](https://1drv.ms/u/c/afe99e57b70de78c/IQDyyciB7x3QSb4qkRV3j8uPAd_yj6K6t6HxFEKWXQbO4JA?e=BYxcHs)
 - [PDO](https://1drv.ms/u/c/afe99e57b70de78c/IQAebqMHS6anRKpiA7DcaOKPAd6HNqHVSIOyN6_pq7Fd13g?e=Vpv1V5)
-- [CIVA (scRNAseq)] (https://1drv.ms/u/c/afe99e57b70de78c/IQDTIhTg3gtzTqeOS04442opAZ5HXZnHa_4uoY1BGZhD5SM?e=yX50jz)
-- [CIVA (VisiumHD)] (https://1drv.ms/u/c/afe99e57b70de78c/IQBvPV-VjDRySYdzQnUoKzycAca5My1AQoRCklRVXKJw2Ms?e=8hLNMv)
-- [Public lung cancer samples] (https://1drv.ms/u/c/afe99e57b70de78c/IQD4zizjt9I3SqkSF5YAOV6HAbIYfqgPzpIgOWS0vsh0IXE?e=xoV4c0)
+- [CIVA (scRNAseq)](https://1drv.ms/u/c/afe99e57b70de78c/IQDTIhTg3gtzTqeOS04442opAZ5HXZnHa_4uoY1BGZhD5SM?e=yX50jz)
+- [CIVA (VisiumHD)](https://1drv.ms/u/c/afe99e57b70de78c/IQBvPV-VjDRySYdzQnUoKzycAca5My1AQoRCklRVXKJw2Ms?e=8hLNMv)
+- [Public lung cancer samples](https://1drv.ms/u/c/afe99e57b70de78c/IQD4zizjt9I3SqkSF5YAOV6HAbIYfqgPzpIgOWS0vsh0IXE?e=xoV4c0)
 
 
 # Analysis scripts in this repo:
@@ -20,7 +20,7 @@ Figure 3:
 - Fig3_Maynard.ipynb (Fig 3J-L)
 - Fig1-4_Correlation.ipynb (Fig 3C)
 - Fig3_Interaction.ipynb (Fig 3D, F)
-  - [cellphonefiles] (https://1drv.ms/f/c/afe99e57b70de78c/IgAI2aysTshgS6ib-ZKALlvBAVoSyAAHw9Fkd-ckQGQ1FTU?e=Mouj0t)
+  - [cellphonefiles](https://1drv.ms/f/c/afe99e57b70de78c/IgAI2aysTshgS6ib-ZKALlvBAVoSyAAHw9Fkd-ckQGQ1FTU?e=Mouj0t)
     - metadata.tsv
     - normalised_log_counts.h5ad
     - cellphonedb.zip
