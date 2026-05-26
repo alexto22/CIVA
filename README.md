@@ -17,3 +17,4 @@ Figure 3:
 
 Figure 4:
 - Fig4_Visium.ipynb (Fig 4A, B)
+- Fig4_Oncofetal_genes.ipynb (Fig D-E)
