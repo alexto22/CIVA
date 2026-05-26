@@ -14,3 +14,6 @@ Figure 3:
 - Fig3_CIVA.ipynb (Fig 3A-B, E, F)
 - Fig3_Maynard.ipynb (Fig 3J-L)
 - Fig1-4_Correlation.ipynb (Fig 3C)
+
+Figure 4:
+- Fig4_Visium.ipynb (Fig 4A, B)
