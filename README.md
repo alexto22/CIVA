@@ -27,4 +27,5 @@ Figure 3:
 
 Figure 4:
 - Fig4_Visium.ipynb (Fig 4A, B)
-- Fig4_Oncofetal_genes.ipynb (Fig D-E)
+- Fig4_Oncofetal_genes.ipynb (Fig E)
+- Fig4_VisiumToR.ipynb (data conversion pre-processing)
