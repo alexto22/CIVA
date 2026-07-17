@@ -1,6 +1,6 @@
 Updated: 16 July 2026
 
-# Oncofetal ecosystem modeling in assembloids
+# Oncofetal microenvironment modeling in assembloids
 The tumour microenvironment is shaped vascular, immune and stromal compartments, yet these components are poorly captured by human cancer models. Here we develop cancer immune vascular assembloids (CIVAs) by differentiating human pluripotent stem cells into vascular-immune organoids and assembling them with patient-derived tumour organoids. CIVAs were generated across lung, colorectal, glioblastoma and hepatocellular carcinoma models, endowing tumour organoids with endothelial, innate immune and stromal compartments. Single-cell and spatial transcriptomics revealed an IL1B+ immunosuppressive microenvironment and a spatially organised oncofetal ecosystem characterized by FOLR2+ tumour-associated macrophages, POSTN+ cancer-associated fibroblasts and PLVAP+ endothelial cells. In lung cancer CIVAs, PLVAP+ oncofetal vascular niche endowed resistance to tyrosine kinase inhibition. Targeting VEGF signalling disrupted PLVAP+ endothelial cells and the whole oncofetal ecosystem, restoring sensitivity to targeted therapy and establishing CIVAs as a human assembloid platform for modelling tumour microenvironment interactions and identifying targetable oncofetal niches.
 
 
